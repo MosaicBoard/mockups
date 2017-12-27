@@ -17,3 +17,11 @@
 | <img src="./05-dashboard_blank.png" width="350" height="263"> | <img src="./06-dashboard_full.png" width="350" height="263"> |
 | :---: | :---: |
 | **Dashboard Blank** | **Dashboard Full** |
+
+| <img src="./07-dashboard_with_tooltip_1.png" width="350" height="263"> | <img src="./08-remove_widget.png" width="350" height="263"> |
+| :---: | :---: |
+| **Dashboard with Tooltip 1** | **Remove Widget** |
+
+| <img src="./09-dashboard_with_tooltip_2.png" width="350" height="263"> | <img src="./10-move_widget.png" width="350" height="263"> |
+| :---: | :---: |
+| **Dashboard with Tooltip 2** | **Move Widget** |
