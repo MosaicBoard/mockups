@@ -8,4 +8,8 @@
 
 | <img src="./01-login.png" width="350" height="263"> | <img src="./02-signup.png" width="350" height="263"> |
 | :---: | :---: |
-| [ ] **Login** | [ ] **Signup** |
+| **Login** | **Signup** |
+
+| <img src="./03-forgot_password.png" width="350" height="263"> | <img src="./04-splash_screen.png" width="350" height="263"> |
+| :---: | :---: |
+| **Forgot Password** | **Splash Screen** |
