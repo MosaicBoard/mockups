@@ -26,10 +26,6 @@
 | :---: | :---: |
 | **Dashboard with Tooltip 2** | **Move Widget** |
 
-| <img src="./09-dashboard_with_tooltip_2.png" width="440" height="247"> | <img src="./10-move_widget.png" width="440" height="247"> |
-| :---: | :---: |
-| **Dashboard with Tooltip 2** | **Move Widget** |
-
 | <img src="./11-menu_switch_dashboard.png" width="440" height="247"> | <img src="./12-edit_dashboard.png" width="440" height="247"> |
 | :---: | :---: |
 | **Menu Switch Dashboard** | **Edit Dashboard** |
